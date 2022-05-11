@@ -9,3 +9,8 @@ Client:
 
 Master:
 - keyboard
+
+# To convert to EXE (client)
+1. Open CMD
+2. Type 'cd "path/to/file"'
+3. Type 'pyinstaller --onefile --noconsole nameOfFile'
