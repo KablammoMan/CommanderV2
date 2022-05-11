@@ -17,13 +17,13 @@ width = screeninfo.get_monitors()[0].width
 height = screeninfo.get_monitors()[0].height
 host = socket.gethostname()
 getheaders = {
-    "Api-Key": "47229801-f65c-4ae1-a65a-b5abfb723ac2",
+    "Api-Key": "<API-KEY-HERE>",
 }
 putheaders = {
-    "Api-Key": "47229801-f65c-4ae1-a65a-b5abfb723ac2",
+    "Api-Key": "<API-KEY-HERE>",
     "Content-Type": "application/json"
 }
-store_name = "Remote"
+store_name = "<STORE-NAME-HERE>"
 
 
 def get():
