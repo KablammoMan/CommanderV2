@@ -1,4 +1,3 @@
-from asyncio import threads
 import requests
 import json
 import socket
