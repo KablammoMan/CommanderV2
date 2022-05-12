@@ -6,6 +6,7 @@ Client:
 - requests
 - mouse
 - screeninfo
+- keyboard
 
 Master:
 - keyboard
