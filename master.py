@@ -6,13 +6,13 @@ import os
 
 
 getheaders = {
-    "Api-Key": "47229801-f65c-4ae1-a65a-b5abfb723ac2"
+    "Api-Key": "<API-KEY>"
 }
 putheaders = {
-    "Api-Key": "47229801-f65c-4ae1-a65a-b5abfb723ac2",
+    "Api-Key": "<API-KEY>",
     "Content-Type": "application/json"
 }
-store_name = "Remote"
+store_name = "<STORE-NAME>"
 path = os.path.join(os.getenv("appdata"), "masterignore.txt")
 if not os.path.exists(path):
     createfile = open(path, "x")
