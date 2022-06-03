@@ -1,6 +1,6 @@
 # CommanderV2
 Like the remote commander repository but works no matter where you are as long as both you and client have internet connection
-# Support for this project is now non-functional, please prepare fro reactor core meltdown
+# !Support of this project is now non-functional, please prepare for reactor core meltdown!
 
 # Dependicies
 Client:
